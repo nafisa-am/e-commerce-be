@@ -63,12 +63,12 @@ Steps to follow for installation:
 
 ### Links 
 
-The following video shows an example of the application being used from the command line: https://drive.google.com/file/d/1bn7eLiMo6ofXD-WqPWymqCAx7xk0Eyhv/view
+The following video shows an example of the application being used from the command line: https://drive.google.com/file/d/1bn7eLiMo6ofXD-WqPWymqCAx7xk0Eyhv/view.
 
 
-GitHub repo - https://github.com/nafisa-am/e-commerce-be
+GitHub repo - https://github.com/nafisa-am/e-commerce-be.
 
 
 ### Questions 
 
-If you have any questions about this project or you would like to connect, then please feel free to contact me on nafisa.am91@gmail.com. This repo can be viewed at https://github.com/nafisa-am
+If you have any questions about this project or you would like to connect, then please feel free to contact me on nafisa.am91@gmail.com. This repo can be viewed at https://github.com/nafisa-am.
