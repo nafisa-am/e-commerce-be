@@ -49,7 +49,7 @@ Steps to follow for installation:
 
 - To seed the data run ```npm run seed```
 
-- The ```nmp runs start``` to start the server. 
+- The ```nmp run start``` to start the server. 
 
 
 ### Screenshots
