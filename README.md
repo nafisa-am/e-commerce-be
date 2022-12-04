@@ -40,7 +40,7 @@ SO THAT my company can compete with other e-commerce companies
 
 Steps to follow for installation:
 
-- Copy repository code and run git clone command on your your machine.
+- Copy repository code and run git clone command on your machine.
 
 - Install npm packages by running ```npm install``` or ```npm run install```
 
